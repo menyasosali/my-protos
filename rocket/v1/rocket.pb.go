@@ -4,7 +4,7 @@
 // 	protoc        v3.21.9
 // source: rocket.proto
 
-package v1
+package rocket
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
