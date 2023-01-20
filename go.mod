@@ -1,4 +1,4 @@
-module my-protos
+module github.com/menyasosali/my-protos
 
 go 1.19
 
